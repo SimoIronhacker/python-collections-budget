@@ -1,4 +1,3 @@
-from sre_parse import CATEGORIES
 from . import Expense
 import collections
 import matplotlib.pylab as plt
